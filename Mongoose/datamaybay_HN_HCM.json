@@ -1,0 +1,422 @@
+[
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL785",
+        "GioBay": "19:20 ",
+        "GioDen": "21:30 ",
+        "GiaTien": " 1700000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL787",
+        "GioBay": "19:30 ",
+        "GioDen": "21:40 ",
+        "GiaTien": " 1700000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ9185",
+        "GioBay": "00:05 ",
+        "GioDen": "02:15 ",
+        "GiaTien": " 1720000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL647",
+        "GioBay": "15:30 ",
+        "GioDen": "21:15 ",
+        "GiaTien": " 1635000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL647",
+        "GioBay": "15:30 ",
+        "GioDen": "21:25 ",
+        "GiaTien": " 1635000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL647",
+        "GioBay": "15:30 ",
+        "GioDen": "21:50 ",
+        "GiaTien": " 1635000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL791",
+        "GioBay": "20:50 ",
+        "GioDen": "23:00 ",
+        "GiaTien": " 1870000 "
+    },
+    {
+        "img": "QH.png",
+        "ChuyenBay": "QH205",
+        "GioBay": "18:55 ",
+        "GioDen": "21:05 ",
+        "GiaTien": " 1900000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL753",
+        "GioBay": "08:25 ",
+        "GioDen": "10:35 ",
+        "GiaTien": " 2040000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL749",
+        "GioBay": "09:15 ",
+        "GioDen": "11:25 ",
+        "GiaTien": " 2040000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL767",
+        "GioBay": "11:20 ",
+        "GioDen": "13:30 ",
+        "GiaTien": " 2040000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL633",
+        "GioBay": "06:25 ",
+        "GioDen": "15:20 ",
+        "GiaTien": " 1845000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL633",
+        "GioBay": "06:25 ",
+        "GioDen": "18:35 ",
+        "GiaTien": " 1845000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL765",
+        "GioBay": "11:40 ",
+        "GioDen": "13:50 ",
+        "GiaTien": " 2200000 "
+    },
+    {
+        "img": "QH.png",
+        "ChuyenBay": "QH203",
+        "GioBay": "17:50 ",
+        "GioDen": "20:00 ",
+        "GiaTien": " 2230000 "
+    },
+    {
+        "img": "QH.png",
+        "ChuyenBay": "QH207",
+        "GioBay": "20:50 ",
+        "GioDen": "23:00 ",
+        "GiaTien": " 2230000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN261",
+        "GioBay": "17:30 ",
+        "GioDen": "19:45 ",
+        "GiaTien": " 2400000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN277",
+        "GioBay": "19:40 ",
+        "GioDen": "21:55 ",
+        "GiaTien": " 2400000 "
+    },
+    {
+        "img": "QH.png",
+        "ChuyenBay": "QH223",
+        "GioBay": "19:50 ",
+        "GioDen": "22:00 ",
+        "GiaTien": " 2400000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL769",
+        "GioBay": "13:50 ",
+        "GioDen": "16:00 ",
+        "GiaTien": " 2800000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL775",
+        "GioBay": "15:45 ",
+        "GioDen": "17:55 ",
+        "GiaTien": " 2800000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL777",
+        "GioBay": "17:40 ",
+        "GioDen": "19:50 ",
+        "GiaTien": " 2800000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL799",
+        "GioBay": "22:20 ",
+        "GioDen": "00:30 ",
+        "GiaTien": " 2800000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN209",
+        "GioBay": "06:00 ",
+        "GioDen": "08:10 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN253",
+        "GioBay": "16:00 ",
+        "GioDen": "18:15 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN257",
+        "GioBay": "16:30 ",
+        "GioDen": "18:45 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN259",
+        "GioBay": "17:00 ",
+        "GioDen": "19:15 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN269",
+        "GioBay": "19:00 ",
+        "GioDen": "21:15 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "BL.png",
+        "ChuyenBay": "BL633",
+        "GioBay": "06:25 ",
+        "GioDen": "17:25 ",
+        "GiaTien": " 2585000 "
+    },
+    {
+        "img": "QH.png",
+        "ChuyenBay": "QH201",
+        "GioBay": "05:45 ",
+        "GioDen": "07:55 ",
+        "GiaTien": " 2835000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN217",
+        "GioBay": "07:00 ",
+        "GioDen": "09:10 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN219",
+        "GioBay": "07:30 ",
+        "GioDen": "09:40 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN223",
+        "GioBay": "08:00 ",
+        "GioDen": "10:10 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN225",
+        "GioBay": "09:00 ",
+        "GioDen": "11:10 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN227",
+        "GioBay": "10:00 ",
+        "GioDen": "12:10 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN229",
+        "GioBay": "10:30 ",
+        "GioDen": "12:40 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN231",
+        "GioBay": "11:00 ",
+        "GioDen": "13:15 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN233",
+        "GioBay": "12:00 ",
+        "GioDen": "14:15 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN237",
+        "GioBay": "13:00 ",
+        "GioDen": "15:15 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN239",
+        "GioBay": "14:00 ",
+        "GioDen": "16:15 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN243",
+        "GioBay": "14:30 ",
+        "GioDen": "16:45 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN249",
+        "GioBay": "15:30 ",
+        "GioDen": "17:45 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN263",
+        "GioBay": "18:00 ",
+        "GioDen": "20:15 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN279",
+        "GioBay": "20:00 ",
+        "GioDen": "22:15 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN285",
+        "GioBay": "21:00 ",
+        "GioDen": "23:10 ",
+        "GiaTien": " 3000000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ119",
+        "GioBay": "05:00 ",
+        "GioDen": "07:10 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ123",
+        "GioBay": "05:30 ",
+        "GioDen": "07:40 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ135",
+        "GioBay": "05:45 ",
+        "GioDen": "07:55 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ143",
+        "GioBay": "06:00 ",
+        "GioDen": "08:10 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ153",
+        "GioBay": "08:50 ",
+        "GioDen": "11:00 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ193",
+        "GioBay": "13:20 ",
+        "GioDen": "15:30 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ145",
+        "GioBay": "13:35 ",
+        "GioDen": "15:45 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ175",
+        "GioBay": "15:15 ",
+        "GioDen": "17:25 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ189",
+        "GioBay": "15:55 ",
+        "GioDen": "18:05 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ171",
+        "GioBay": "19:25 ",
+        "GioDen": "21:35 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ185",
+        "GioBay": "21:15 ",
+        "GioDen": "23:25 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "VJ.png",
+        "ChuyenBay": "VJ173",
+        "GioBay": "22:40 ",
+        "GioDen": "00:50 ",
+        "GiaTien": " 2900000 "
+    },
+    {
+        "img": "QH.png",
+        "ChuyenBay": "QH215",
+        "GioBay": "07:00 ",
+        "GioDen": "09:10 ",
+        "GiaTien": " 3045000 "
+    },
+    {
+        "img": "QH.png",
+        "ChuyenBay": "QH219",
+        "GioBay": "14:00 ",
+        "GioDen": "16:10 ",
+        "GiaTien": " 3200000 "
+    },
+    {
+        "img": "VN.png",
+        "ChuyenBay": "VN247",
+        "GioBay": "15:00 ",
+        "GioDen": "17:15 ",
+        "GiaTien": " 5500000 "
+    }
+]

@@ -1,0 +1,48 @@
+﻿5d033e281cbb78324420dc83 : hcm
+5d033e281cbb78324420dc81 : hn
+5d033e9e632b252010ad3d10 : id Tuyen
+
+let eletr = document.querySelector('.table-search-detail')
+let datas = []
+
+for(let i =1;i<eletr.rows.length;i+=2){
+	
+		
+		let img = eletr.rows[i].cells[0].querySelector('img').getAttribute("src").split('/')[2]
+		let ChuyenBay = eletr.rows[i].cells[1].innerText
+		let GioBay = eletr.rows[i].cells[2].innerText.replace('(HAN)','')
+		let GioDen = eletr.rows[i].cells[3].innerText.replace('(SGN)','')
+		let GiaTien = eletr.rows[i].cells[4].querySelector('Label').innerText.replace('VNĐ','').replace(/[,]/,'').replace(/[,]/,'')
+		datas.push({img,ChuyenBay,GioBay,GioDen,GiaTien})
+}
+
+
+(function(console){
+
+console.save = function(data, filename){
+
+    if(!data) {
+        console.error('Console.save: No data')
+        return;
+    }
+
+    if(!filename) filename = 'console.json'
+
+    if(typeof data === "object"){
+        data = JSON.stringify(data, undefined, 4)
+    }
+
+    var blob = new Blob([data], {type: 'text/json'}),
+        e    = document.createEvent('MouseEvents'),
+        a    = document.createElement('a')
+
+    a.download = filename
+    a.href = window.URL.createObjectURL(blob)
+    a.dataset.downloadurl =  ['text/json', a.download, a.href].join(':')
+    e.initMouseEvent('click', true, false, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null)
+    a.dispatchEvent(e)
+ }
+})(console)
+
+
+console.save(datas,'datamaybay_HN_HCM.json')
